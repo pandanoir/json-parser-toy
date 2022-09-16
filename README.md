@@ -1,5 +1,5 @@
 # toy JSON parser
-This parser parses and prettify given JSON string.
+This parser parses and prettifies a given JSON string.
 
 ```
 $ echo '{"array": [42, true, "yes"]}' | cargo run
